@@ -108,15 +108,9 @@ http://localhost:8501
 
 # 🎥 Demo Video
 
-Drag and drop your demo video here when editing this README on GitHub.
 
-Example:
 
-```
-Upload demo-video.mp4 here
-```
-
-GitHub will automatically generate a video player after you upload the file.
+https://github.com/user-attachments/assets/69b0b426-ad54-4a2a-a7aa-d8d11d1ca493
 
 ---
 
@@ -197,4 +191,5 @@ Recommended Playlist
 - User login system
 
 ---
+
 
