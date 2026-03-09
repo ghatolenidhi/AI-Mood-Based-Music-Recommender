@@ -198,13 +198,3 @@ Recommended Playlist
 
 ---
 
-# 👩‍💻 Author
-
-Your Name  
-Final Year AI / Data Science Project
-
----
-
-# ⭐ Support
-
-If you like this project, please consider giving it a **star ⭐ on GitHub**.
