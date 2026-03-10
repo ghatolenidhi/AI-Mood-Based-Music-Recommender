@@ -8,6 +8,18 @@ The application is built using **Python, Scikit-learn, and Streamlit** and provi
 
 ---
 
+# 🌐 Live Web Application
+
+Try the deployed Streamlit application here:
+
+👉 https://mood-based-music-recommender1.streamlit.app/
+
+Users can simply type how they feel and the system will recommend songs based on the detected mood.
+
+---
+
+---
+
 # 📌 Project Description
 
 Music plays an important role in influencing human emotions.  
@@ -191,5 +203,6 @@ Recommended Playlist
 - User login system
 
 ---
+
 
 
